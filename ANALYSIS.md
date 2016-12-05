@@ -15,4 +15,4 @@ Compiling the regular expression reduces this time to 3.0 seconds.
 
 ## Sorting lists
 
-Sorting the lists in place if faster than constructing a new list
+Sorting the lists in place is faster than constructing a new list
